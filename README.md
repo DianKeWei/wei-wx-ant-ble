@@ -1,5 +1,17 @@
 # wei-wx-ant-ble
 
+- #### Notice : Since the original author doesn't update, it's up to me to update the api based on this.
+
+- #### repository :
+
+  - ##### Origin-author-url : https://github.com/zhaodahai/wx-ant-ble.git
+
+  - #####  Gitee : https://gitee.com/DinaKeWei/wei-wx-ant-ble.git （better for chinese )
+
+  - ##### Github : https://github.com/DianKeWei/wei-wx-ant-ble.git
+
+  
+
 ### Usage
 
 #### 1、引入SDK管理类和枚举
