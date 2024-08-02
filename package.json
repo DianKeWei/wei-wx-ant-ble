@@ -1,0 +1,21 @@
+{
+  "name": "wei-wx-ant-ble",
+  "version": "1.0.0",
+  "description": "WxChat and Ant Bluetooth (Ble）Package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:DinaKeWei/wei-wx-ant-ble.git"
+  },
+  "keywords": [
+    "bluetooth",
+    "ble",
+    "wxchat",
+    "ant"
+  ],
+  "author": "weidoctor",
+  "license": "ISC"
+}
