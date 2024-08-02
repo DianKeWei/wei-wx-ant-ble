@@ -1,6 +1,6 @@
 {
   "name": "wei-wx-ant-ble",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "WxChat and Ant Bluetooth (Ble）Package",
   "main": "index.js",
   "scripts": {
